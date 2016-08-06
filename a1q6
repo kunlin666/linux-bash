@@ -1,0 +1,2 @@
+if [ ${test}.in -r ]; then
+âˆ

@@ -1,0 +1,1 @@
+egrep "^.*[l|L][i|I][n|N][u|U][x|X][.][s|S][t|T][u|U][d|D][e|E][n|N][t|T][.][c|C][s|S][.][u|U][w|W][a|A][t|T][e|E][r|R][l|L][o|O][o|O][.][c|C][a|A].*$" myfile.txt | wc -l
